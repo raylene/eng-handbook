@@ -11,6 +11,11 @@
 * <a href="management/manager-changes.md">Guide to Manager Changes</a>
 * <a href="management/role-transitions.md">Engineering Role Transitions (IC<>EM)</a>
 
+**Performance Reviews & Feedback**
+
+* <a href="feedback/perf-review-templates.md">Basic Performance Review Templates</a>
+* <a href="feedback/writing-multiple-reviews.md">Guide to Writing Multiple Reviews</a>
+
 **Development Practices**
 
 * Project Briefs (coming soon)
