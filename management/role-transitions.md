@@ -1,6 +1,8 @@
 # Engineering Role Transitions (IC <> EM)
 
-This guide is meant to help describe what happens when people in engineering transition between roles, as in between an individual contributor and manager role.
+This guide is meant to help describe what happens when people in engineering transition between roles, as in between an individual contributor and manager role. 
+
+In most role transitions, people will end up with different managers than they had before. See <a href="manager-changes.md">Guide to Manager Changes</a> for how to facilitate an individual manager change, and apply it to each affected individual in the scenarios below.
 
 ## tl;dr
 
