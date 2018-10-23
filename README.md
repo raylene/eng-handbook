@@ -1,19 +1,19 @@
 # The Eng Team Handbook
 *A hacker's guide to eng management*
 
-> Early seed project for an open-sourced, cloneable engineering team's handbook.
+> Early seed project for an open-sourced, cloneable handbook for leading engineering teams
 
 ## Table of Contents
 
-_Engineering Management_
+**Engineering Management**
 
-* Guide to 1-1s (coming soon)
-* Performance Reviews (coming soon)
-* Team Retrospectives (coming soon)
+* <a href="eng-handbook/management/guide-to-1-1s.md">Guide to 1-1s</a>
+* <a href="eng-handbook/management/manager-changes.md">Guide to Manager Changes</a>
+* <a href="eng-handbook/management/role-transitions.md">Engineering Role Transitions (IC<>EM)</a>
 
-_Development Practices_
+**Development Practices**
 
-* Guide to Project Briefs (coming soon)
+* [Guide to Project Briefs] (coming soon)
 
 ## Background
 
