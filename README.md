@@ -7,13 +7,13 @@
 
 **Engineering Management**
 
-* <a href="eng-handbook/management/guide-to-1-1s.md">Guide to 1-1s</a>
-* <a href="eng-handbook/management/manager-changes.md">Guide to Manager Changes</a>
-* <a href="eng-handbook/management/role-transitions.md">Engineering Role Transitions (IC<>EM)</a>
+* <a href="management/guide-to-1-1s.md">Guide to 1-1s</a>
+* <a href="management/manager-changes.md">Guide to Manager Changes</a>
+* <a href="management/role-transitions.md">Engineering Role Transitions (IC<>EM)</a>
 
 **Development Practices**
 
-* [Guide to Project Briefs] (coming soon)
+* Project Briefs (coming soon)
 
 ## Background
 
