@@ -1,4 +1,5 @@
-# Eng Team Handbook
+# The Eng Team Handbook
+*A hacker's guide to eng management*
 
 > Early seed project for an open-sourced, cloneable engineering team's handbook.
 
