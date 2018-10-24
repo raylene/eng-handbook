@@ -45,7 +45,7 @@ There's a lot more that goes into a transition than simply a manager or org chan
 Here are some responsibilities to keep in mind for engineers:
 * Run / oncall
 * Code reviews
-* Critical unterviews (especially for specialists e.g. ML/FE/Mobile)
+* Critical interviews (especially for specialists e.g. ML/FE/Mobile)
 
 ### Current Manager <=> New Manager
 
