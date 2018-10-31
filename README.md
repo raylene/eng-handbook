@@ -47,4 +47,4 @@ If you’d like to write a new guide, check the <a href="drafts/requests.md">req
 
 ## License
 
-[MIT](LICENSE)
+[GNU General Public License v3.0](LICENSE)
