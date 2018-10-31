@@ -1,6 +1,7 @@
 # Performance Review Templates
 
-*Here are some sample performance review templates you can use for self, upward (you => your manager), downward (you => your teammate) and peer (you => someone not in your reporting chain) feedback. These should be customized to reflect your company's values and career levels and ladders.*
+*Here are some sample performance review templates for self, upward (you => your manager), downward (you => your teammate) and peer (you => someone not in your reporting chain) feedback. These can be customized to reflect company values or role levels and ladders.*
+
 ## Self Review Template
 *Feedback for yourself*
 
@@ -51,3 +52,7 @@ What are key strengths and ways these strengths were used to make clear impact?
 
 **Areas for Development:**
 What are key areas of improvement / things that may have held this person back from accomplishing more?
+
+## Questions & Feedback?
+
+[Open an issue](https://github.com/raylene/eng-handbook/issues/new) or submit a PR!
