@@ -1,19 +1,26 @@
 # How-To Guide for 1:1s
 
-Recurring one-on-one meetings (1:1s), are one of the ways in which people and their managers have dedicated and scheduled time set aside to discuss issues not just related to their day-to-day work. There's no one right way to approach 1:1s, so this guide contains some goals for them, tips and tricks, and potential ways to structure individual conversations. This guide is addressed to the manager, so "you" refers to the manager (and teammate to the person who "you" are the manager for).
+Recurring one-on-one meetings (1:1s), are one of the ways in which people and their managers have scheduled time set aside to discuss issues not just related to their day-to-day work. There's no one right way to approach 1:1s, so this guide contains some goals, tips and tricks, and potential ways to structure individual conversations. This is addressed to the manager, so "you" refers to the manager (and teammate to the person who "you" are the manager for).
  
-## tl:dr;
+## tl;dr;
 
-Read the rest of this doc for more info on 1:1s in general, but if you're looking for a quick-start guide, try this:
+If you're looking for a quick-start guide, try this:
 * Schedule a weekly 30 minute 1:1 for you and your teammate
 * Use some method to keep track of potential agenda items or things both of you would like to bring up each week—e.g. a shared google doc or personal notebook
 * Follow a basic structure for each 1:1:, found below: Sample 1:1 Schedule
+
+For a new manager<>teammate relationship here’s a way you can spend the first few weeks:
+* Week 1: Hi! Get to know each other
+* Week 2: Team and role context, how to think about performance
+* Week 3: Career goals, long and short-term
+* Week 4: Bi-directional feedback so far
+* Week 5+: Normal 1:1
 
 ## Goals & Purpose
 
 ### What are manager 1:1s for?
 * Building a relationship and rapport between you and your teammate
-* Having dedicated time to talk about career development and career goals
+* Having dedicated time to talk about career development and goals
 * Giving and receiving feedback
 * Addressing or raising concerns
 * Helping your teammate work on the right things, by prioritizing or helping push back when needed
@@ -35,15 +42,15 @@ The exact cadence and timing of a 1:1 varies widely by individual and circumstan
 *You may want to create it so that both of you are in control of the time, and can move the meeting independently*
 
 ### Timing Choices
-* 1 hour: this is considered the ~longest length for a 1:1, and may be used more commonly with less frequent meetings. (Note that it may be hard to make the full hour feel productive, so consider starting with a shorter timeslot and increasing if needed.)
+* 1 hour: this is considered the ~longest length for a 1:1, and may be used more commonly with less frequent meetings. (Note that it may be hard to make the full hour feel productive, so consider starting shorter and increasing if needed.)
 * 45m: somewhere in between, often used to catch up initially with new team members
-* 30m: this is the most common length for a 1:1, and also the minimum amount of time you may need to have a productive discussion; typically weekly
+* 30m: this is a common 1:1 length, and also the minimum amount of time you may need to have a productive discussion; typically weekly
 
-*A good rule of thumb is to start with 30m weekly, and adjust the timing as your relationship develops.*
+*A good rule of thumb is to start with 30m or 45m weekly, and adjust the timing as your relationship develops.*
 
 As a manager, you should aim to meet with each of your teammates roughly every ~1-2 weeks.
 
-If for some reason, you are meeting with them less frequently than biweekly, you should consider other ways to ensure they are getting the ongoing support they need. E.g. having other 1:1 support with mentors on their team, or being explicit about you helping in a transition time when they do not yet have dedicated managers.
+If for some reason, you are meeting with them less frequently, you should consider other ways to ensure they are getting the ongoing support they need. E.g. having other 1:1 support with mentors on their team, or being explicit that you are helping in a transition time while looking for additional managers.
 
 ## Making an Agenda
 
@@ -53,7 +60,7 @@ This can be roughly categorized into (1) things you need to cover this week or r
 
 ### (1) Things to cover now
 * Are there things that urgently need addressing, or are blocking or relevant to work that's active or coming up soon?
-* Anything on your teammate's mind goes here to start, and you can choose to followup on individual topics later if they're not urgent
+* Anything on your teammate's mind goes here to start, and you can choose to follow-up on individual topics later if they're not urgent
 * Has anything significant happened recently with the team or company that's relevant to them? E.g. a new team member or org change, upcoming org process like levels, etc.
 
 ### (2) Things to cover soon
@@ -70,7 +77,7 @@ This can be roughly categorized into (1) things you need to cover this week or r
 
 ## Ideas for Note-Taking
 
-How you choose to take or share notes is up to you, so here are just a few ways to approach this:
+How you choose to take or share notes is up to you, so here are just a few ways suggestions:
 
 ### Shared Online Document
 *E.g. Google Doc: Shared with you / your teammate*
@@ -94,11 +101,11 @@ How you choose to take or share notes is up to you, so here are just a few ways 
 * One-sided record of what you've talked about (It's often very helpful to have things in writing/shared)
 
 ### No Notes
-*If you choose not to take ongoing notes for your 1:1s, it can be very helpful to followup periodically with written actions via email or other forms of communication*
+*If you choose not to take ongoing notes for your 1:1s, it can be very helpful to follow-up periodically with written actions via email or other forms of communication*
 
 **Pros:**
 * Easy to maintain
-* Easier to have a more casual and informal environment – coffee or neighborhood chats
+* Easier to have a more casual and informal environment–coffee or neighborhood chats
 
 **Cons:**
 * Easy to lose track of what you've talked about or want to talk about
@@ -121,7 +128,7 @@ There's no one right way to have a 1:1, so given the considerations above, here 
 * How do you think project X went?
 * Any continuation from discussions on personal or career goals and trajectory?
 
-**Closing & Next Steps (final few mins)**: Summarize what you've discussed and capture what might need followup actions or a future conversation. If you do have a tracking doc or some personal tracking mechanism, these are the things you should record for next time
+**Closing & Next Steps (final few mins)**: Summarize what you've discussed and capture what might need follow-up actions or a future conversation. If you do have a tracking doc or some personal tracking mechanism, these are the things you should record for next time
 
 ## Questions & Feedback?
 
