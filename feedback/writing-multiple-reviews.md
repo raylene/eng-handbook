@@ -1,3 +1,5 @@
+[<kbd>Quickstart</kbd> *Best used as part of a structured, performance feedback gathering process (a.k.a. "Performance Reviews"*]
+
 # Guide to Writing Multiple Performance Reviews
 
 *This guides assumes your company has a structured performance review process where written feedback is periodically gathered in multiple directions. E.g. **self** for your own work, **upward** for feedback you write for your manager, **downward** for feedback you as a manager write for your team members, and **peer** for feedback written for others in the organization. These tips are most useful for writing multiple **downward** and **peer** reviews in a single review period.*
