@@ -1,6 +1,6 @@
 # Guide to Writing Multiple Performance Reviews
 
-*This is most useful for writing multiple downward and peer reviews in a single review cycle.*
+*This guides assumes your company has a structured performance review process where written feedback is periodically gathered in multiple directions. E.g. **self** for your own work, **upward** for feedback you write for your manager, **downward** for feedback you as a manager write for your team members, and **peer** for feedback written for others in the organization. These tips are most useful for writing multiple **downward** and **peer** reviews in a single review period.*
 
 ## Step 0: Have your review instructions ready
 For sample review prompts and templates, see: <a href="feedback/perf-review-templates.md">Performance Review Templates</a>
@@ -42,19 +42,19 @@ For a final efficiency tip, try pipelining your reviews. Jumping between people 
 
 * **Step 1:** Catalog your work
 
-*For each teammate, in any order:*
+*For each team member, in any order:*
 
 * **Step 2:** Sketch out a basic outline
 
 * **Step 3:** Read through any supporting feedback or additional data sources
 
-*For each teammate, in any order:*
+*For each team member, in any order:*
 
 * **Step 4:** Edit and iterate on your outline
 
 *[Take a break and scan through your outlines until you feel good about them.]*
 
-*For each teammate, in any order:*
+*For each team member, in any order:*
 
 * **Step 5:** Prosify
 
