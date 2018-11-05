@@ -1,3 +1,5 @@
+[<kbd>Quickstart</kbd> *Best for orgs with defined Engineering Manager roles open to internal transitions*]
+
 # Engineering Role Transitions (IC <> EM)
 
 This guide is meant to help when people in engineering transition between roles, as in between an individual contributor and manager role. 
