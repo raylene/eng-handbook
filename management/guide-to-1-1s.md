@@ -1,3 +1,5 @@
+[<kbd>Quickstart</kbd> *Applicable to most managers*]
+
 # How-To Guide for 1:1s
 
 ## Why do 1:1s?
