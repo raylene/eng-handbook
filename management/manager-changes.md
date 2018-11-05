@@ -1,3 +1,5 @@
+[<kbd>Quickstart</kbd> *Best for larger orgs with several managers*]
+
 # Engineering Manager Changes
 
 This guide is meant to help managers facilitate the transition of an engineer from one team to another.
