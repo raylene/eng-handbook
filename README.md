@@ -41,7 +41,7 @@ This is currently maintained by [@raylene](https://github.com/raylene). If you a
 
 ## Contribute
 
-If you have corrections, requests for additional guides, or any other ideas, [open an issue](https://github.com/raylene/eng-handbook/issues/new) or submit some PRs.
+If you have corrections, requests for additional guides, or any other ideas, [open an issue](https://github.com/raylene/eng-handbook/issues/new/choose) or submit some PRs.
 
 If you’d like to write a new guide, check the <a href="drafts/requests.md">requested list</a>.
 
