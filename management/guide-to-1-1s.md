@@ -2,7 +2,9 @@
 
 ## Why do 1:1s?
 
-Recurring one-on-one meetings (1:1s) between managers and their teammates have become a common engineering practice, and are one of the best ways for people to connect directly and personally about issues not just related to day-to-day work. As Ben Horowitz described in 2012, they “provide an excellent mechanism for information and ideas to flow up the organization” and are “free-form meeting(s) for all the pressing issues, brilliant ideas and chronic frustrations that do not fit neatly into status reports, email and other less personal and intimate mechanisms.” 
+Recurring one-on-one meetings (1:1s) have become a common engineering practice, and are one of the best ways for managers to personally connect about issues not just related to day-to-day work.
+
+> [One on ones] provide an excellent mechanism for information and ideas to flow up the organization [...] This is the free-form meeting for all the pressing issues, brilliant ideas and chronic frustrations that do not fit neatly into status reports, email and other less personal and intimate mechanisms. —Ben Horowitz
 
 As our teams go increasingly remote, it’s even more important to set aside time for video/voice calls to maintain a personal connection—although management isn’t exactly like parenting, [scientific studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3277914/) have shown that communicating over text messages with family is less effective for managing stress than a simple phone call.
 
@@ -81,12 +83,11 @@ This can be roughly categorized into (1) things you need to cover this week or r
 * Do you have any feedback that may help them improve or grow?
 
 **Here are some questions you can ask your teammate directly to foster discussion**
-* How are things going on the team more generally? Do you believe in the team’s goals? Are people getting along and being productive? Do you feel the team is as productive as it could be?
-* How do you feel about the company’s goals or overall trajectory? What are things you’re excited about or unexcited about in general?
+* How are things going on the team? Do you believe we're working on the right things? Are people getting along and being productive? Are we as productive as we could be?
+* How do you feel about the company goals or overall trajectory? What are things you’re excited about? Not excited about?
 * Any thoughts on recent company all hands, announcements, org /or process updates?
 * How do you think project X went?
-
-*Here are a few great suggestions from [Ben Horowitz’s guide](https://a16z.com/2012/08/30/one-on-one/)*
+* *Here are a few great suggestions from [Ben Horowitz’s guide](https://a16z.com/2012/08/30/one-on-one/)*:
 * If we could improve in any way, how would we do it?
 * What’s the No. 1 problem with our organization? Why?
 * What’s not fun about working here?
@@ -115,7 +116,7 @@ How you choose to take or share notes is up to you, so here are just a few ways 
 | Easy for you to keep personal and private notes | One-sided record of what you've talked about (It's often very helpful to have things in writing/shared) |
 | Can be a helpful personal reference for past conversations | Harder to transition to future managers if needed |
 
-| **No Notes** | *If you choose not to take ongoing notes for your 1:1s, it can be very helpful to follow-up periodically with written actions via email or other forms of communication* |
+| **No Notes** | *If you choose this, follow-up periodically with written actions via email / etc.* |
 | --- | --- |
 | **Pros** | **Cons** |
 | Easy to maintain | Easy to lose track of what you've talked about or want to talk about |
