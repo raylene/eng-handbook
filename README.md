@@ -1,5 +1,5 @@
 # The Eng Team Handbook (eng-handbook)
-*A developers's guide to management: an open-sourced handbook for leading engineering teams*
+*A developer's guide to management: an open-sourced handbook for leading engineering teams*
 
 ## Background
 
