@@ -1,12 +1,12 @@
 # Requests & In-Progress Guides
 
-*Here are the top-requested guides up for review and publication. If contributing, submit a PR and link to your guide here, or chime in on in-progress drafts. When guides are approved, they'll be moved to the <a href="README.md">README</a>*
+*Here are the top-requested guides up for review and publication. If contributing, submit a PR and link to your guide here, or chime in on in-progress drafts. When guides are approved, they'll be moved to the <a href="/README.md">README</a>*
 
 **Management**
-* Guide to Engineering Levels: how / when to construct basic eng ladders/levels 
+* Guide to Engineering Levels: how / when to construct basic eng ladders/levels
 * Engineering Levels Template: basic template for engineering ladders/levels (IC, EM)
 * Guide to Managing Remote Teams: tips especially relevant for managing distributed/remote eng teams
-* Guide to Team Structure: how to structure teams (horiz, vertical, layers, etc.)  
+* Guide to Team Structure: how to structure teams (horiz, vertical, layers, etc.)
 
 **Feedback**
 * Guide to Designing Performance Reviews: how/when to introduce a structured perf review system
