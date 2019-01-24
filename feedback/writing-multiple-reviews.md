@@ -5,7 +5,7 @@
 *This guides assumes your company has a structured performance review process where written feedback is periodically gathered in multiple directions. E.g. **self** for your own work, **upward** for feedback you write for your manager, **downward** for feedback you as a manager write for your team members, and **peer** for feedback written for others in the organization. These tips are most useful for writing multiple **downward** and **peer** reviews in a single review period.*
 
 ## Step 0: Have your review instructions ready
-For sample review prompts and templates, see: <a href="feedback/perf-review-templates.md">Performance Review Templates</a>
+For sample review prompts and templates, see: <a href="/feedback/perf-review-templates.md">Performance Review Templates</a>
 
 ## Step 1: Catalog your work
 Collect all the information you need and put it in one place. This can create a space to quickly jump through different reviews or content and iterate quickly. Information might come in the form of feedback guides, past reviews, project plans, design docs, or even large PRs that were particularly important from the review period.
