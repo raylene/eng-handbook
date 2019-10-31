@@ -4,11 +4,11 @@
 
 ## Why do 1:1s?
 
-Recurring one-on-one meetings (1:1s) have become a common engineering practice, and are one of the best ways for managers to personally connect about issues not just related to day-to-day work.
+Recurring one-on-one meetings (1:1s) have become a common engineering practice, and are one of the best ways for managers to personally connect with team members about issues not just related to day-to-day work.
 
 > [One on ones] provide an excellent mechanism for information and ideas to flow up the organization [...] This is the free-form meeting for all the pressing issues, brilliant ideas and chronic frustrations that do not fit neatly into status reports, email and other less personal and intimate mechanisms. —Ben Horowitz
 
-As our teams go increasingly remote, it’s even more important to set aside time for video/voice calls to maintain a personal connection—although management isn’t exactly like parenting, [scientific studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3277914/) have shown that communicating over text messages with family is less effective for managing stress than a simple phone call.
+As our teams go increasingly remote, it’s even more important to set aside time for video/voice calls to maintain a personal connection. Although management isn’t exactly like parenting, [scientific studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3277914/) have shown that communicating over text messages with family is less effective for managing stress than a simple phone call.
 
 There's no one right way to approach 1:1s, so this guide contains some goals, tips and tricks, and potential ways to structure your conversations. This is addressed to the manager, so "you" refers to the manager (and teammate to the person who "you" are the manager for).
  
@@ -71,7 +71,7 @@ This can be roughly categorized into (1) things you need to cover this week or r
 ### (1) Things to cover now
 * Are there things that urgently need addressing, or are blocking or relevant to work that's active or coming up soon?
 * Anything on your teammate's mind goes here to start, and you can choose to follow-up on individual topics later if they're not urgent
-* Has anything significant happened recently with the team or company that's relevant to them? E.g. a new team member or org change, upcoming org process like levels, etc.
+* Has anything significant happened recently with the team or company that's relevant to them? E.g. a new team member or org change, upcoming org process like performance reviews, goal setting, etc.
 
 ### (2) Things to cover soon
 * Are there things that you've carried over from previous conversations that should be resolved?
