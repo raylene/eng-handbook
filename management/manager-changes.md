@@ -12,7 +12,7 @@ Terminology
 * Incoming / New Manager: The soon-to-be new manager for the person switching teams
 
 If you've done this before or want a quick overview, here are the steps to remember:
-* Communicate directly: Make sure the outgoing/current manager and team member are the first to directly discuss the change and are on the same page.
+* Communicate directly: Make sure the outgoing/current manager and team member have a direct 1-1 conversation about the change and are on the same page before sharing more widely
 * Develop a transition plan: Have a plan for how and when the transition should happen and catalogue any responsibilities that will shift owners.
 * Communicate more broadly: Share with the team or organization as a whole, provide outlets for questions and feedback.
 * Transition: Act as if the team member has two managers for an overlapping time period to ensure things go smoothly.
