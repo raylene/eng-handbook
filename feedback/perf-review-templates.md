@@ -2,7 +2,7 @@
 
 # Performance Review Templates
 
-*Here are some sample performance review templates for **self** (your own work), **upward** (feedback you write for your manager), **downward** (feedback you as a manager write for your team members), and **peer** (feedback written for others in the organization). These can be customized to reflect company values or role levels and ladders.*
+*Here are some sample performance review templates for **self** (your own work), **upward** (feedback you write for your manager), **downward** (feedback you as a manager write for your team members), and **peer** (feedback written for others in the organization) reviews. These can be customized to reflect company values or role levels and ladders.*
 
 ## Self Review Template
 *Self reflection and feedback for yourself*
