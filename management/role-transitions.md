@@ -45,7 +45,7 @@ Both people should work together to define the scope, membership, responsibiliti
 
 The outgoing manager should get feedback from people the new manager has worked with or helped mentor and develop. This includes discussing the transition with other engineering managers familiar with their work and what the new role entails.
 
-In gathering feedback, the outgoing manager should also be explicit that this feedback is being gathered in considering a role transition. E.g. "We've been talking about having <Person> become a manager for team X working with Y, and I'd love to get your thoughts on this." This should ideally not come as a surprise—it should be clear a manager is needed and that the person has already been playing a leadership role.
+In gathering feedback, the outgoing manager should also be explicit that the feedback will be used as input into a role transition. E.g. "We've been talking about having <Person> become a manager for team X working with Y, and I'd love to get your thoughts on this." This should ideally not come as a surprise—it should be clear a manager is needed and that the person has already been playing a leadership role.
 
 * For all / in general: what are the new manager’s capabilities when it comes to technical leadership and technical ability? What about team and project leadership?
 * For people they have mentored: how were they as a mentor? what did you rely on them for and how did they help you grow?
@@ -58,9 +58,9 @@ This feedback gathering often happens by starting a discussion with a peer group
 
 If the feedback comes back positive, the next step is to communicate with the team, with more focus on people whose manager will potentially be changing. I.e. "As we discussed previously, we're considering transitioning <Person> into a manager role on the team, where they’d be your new manager."  This is a good time to get any additional feedback that might come out of making this more explicit.
 
-If there are clear blockers, that feedback should also be communicated directly. E.g. "I've been gathering feedback about the potential transition, and here are <XYZ> things I think we should focus on improving before we make the transition."
+If there are clear blockers, the transition should be stopped and pertinent feedback should be communicated directly. E.g. "I've been gathering feedback about the potential transition, and here are <XYZ> things I think we should focus on improving" + [before we make the transition] and/or [and I don't think this will be a good fit for you at this time].
 
-#### Setup an evaluation period (~4-6 weeks)
+#### Set up an evaluation period (~4-6 weeks)
 
 The outgoing manager, new manager, and affected team members should agree on an evaluation/transition period that makes the following clear:
 
