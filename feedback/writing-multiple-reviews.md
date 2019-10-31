@@ -23,7 +23,7 @@ Collect all of the information you want to incorporate into your review, and rea
 Repeat this step a few times until you think you’ve properly distilled down what you’ve read.
 
 ## Step 4: Edit and iterate on your outline
-Now that you have your outline, sit with it for awhile and edit while asking yourself different questions:
+Now that you have your outline, sit with it for a while and edit while asking yourself different questions:
 
 * Did you end up pulling out a few areas that fit naturally into a broader theme? What is that theme?
 * Are some of the areas ones you’ve talked about before? If so, how has the feedback changed since prior reviews?
@@ -31,10 +31,10 @@ Now that you have your outline, sit with it for awhile and edit while asking you
 * Is this feedback important enough to highlight as part of the review? Was it a one-time error or unusual mistake? If it’s a strength, is it one that the person demonstrates unique ability in or has shown improvement in since the last cycle?
 * How well do the themes resonate with what you’ve seen of their work? If you are seeing things in people’s feedback that surprise you, think about why that is and take another pass through the information you have to get more context and better understand it.
 * Do you have any concrete ideas for ways to address the feedback that you can capture and share? How can you help this person grow and be even better in the next cycle?
-* Try to zero in on 3–5 major themes or key messages per review prompt. These should feature concrete examples, resonate well with you and the feedback you’ve gathered from others, and contain some specific ideas to address the feedback going forward. Without those, you run the risk of using generic phrases that might not mean much of anything. There are also a few frameworks out there that can help you deliver more effective feedback like this (E.g. [SBI Feedback](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm).
+* Try to focus on 3–5 major themes or key messages per review prompt. These should feature concrete examples, resonate well with you and the feedback you’ve gathered from others, and contain some specific ideas to address the feedback going forward. Without those, you run the risk of using generic phrases that might not mean much of anything. There are also a few frameworks out there that can help you deliver more effective feedback like this (E.g. [SBI Feedback](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm).
 
 ## Step 5: Prosify
-Now take time to structure your thoughts in writing. Leave certain sections in outline form as needed (e.g. bulleted lists for the key 3–5 themes) as they can be easier to process, but use prose to capture how themes relate to each other and how best to communicate them overall. Don’t focus on flowing dialogue or turn each review into a short novel — think about the person or people who will read it, and what messages you want them to take away from it, as clearly as possible. If you soften the language too much, bury it in needless filler content, or omit concrete examples or details, you run the risk of your key messages simply being lost and ignored.
+Now take time to structure your thoughts in writing. Leave certain sections in outline form as needed (e.g. bulleted lists for the key 3–5 themes) as they can be easier to process, but use prose to capture how themes relate to each other and how best to communicate them overall. Don’t focus on flowing dialogue or turn each review into a short novel — think about the person or people who will read it, and what messages you want them to take away from it, as clearly as possible. If you soften the language too much, bury real feedback within needless filler content, or omit concrete examples or details, you run the risk of your key messages simply being lost and ignored.
 
 ## Step 6: Proofread and profit
 Finally, take a quick final read-through to make sure the feedback resonates with you. Hit submit and you’re done!
